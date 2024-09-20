@@ -1,6 +1,6 @@
+#include <set>
 #include <R.h>
 #include <Rinternals.h>
-#include <set>
 using namespace std;
 
 /* -- points_witin from the spp package
